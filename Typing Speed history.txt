@@ -1,0 +1,25 @@
+
+Date : 2025-06-13
+A trigger is a stored procedure in a database that automatically invokes whenever a special event in the database occurs and every trigger has a table attached to it. 
+Total Time Taken: 35.5638542175293 sec
+Correctly Typed words: 26 out of 29
+Words per miniute: 48.926080659231815
+
+Mistakes:
+procedure - procefure
+automatically - automatuically
+it. - it
+
+
+
+Date : 2025-06-13
+Software development life cycle (SDLC) is a structured process that is used to design, develop, and test good-quality software 
+Total Time Taken: 29.192974090576172 sec
+Correctly Typed words: 17 out of 19
+Words per miniute: 39.050491959570685
+
+Mistakes:
+good-quality - good
+software - qualitu
+
+
